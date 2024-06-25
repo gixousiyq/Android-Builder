@@ -52,8 +52,9 @@
         "LDGOLD": "aarch64-linux-gnu-ld.gold",
         "LLVM_AR": "llvm-ar",
         "LLVM_DIS": "llvm-dis",
-        "CONFIG_THINLTO": ""
-      }
+        "CONFIG_THINLTO": "",
+      	"DTC_EXT": "dtc"
+	}
     },
     "AnyKernel3": {
       "use": true,
